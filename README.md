@@ -1,6 +1,6 @@
 # Setup Webpack
 
-> build a simple yet powerful webpack boilerplate
+> build a simple  powerful webpack boilerplate
 
 ## Getting Started
 
