@@ -4,7 +4,12 @@
 
 ## Getting Started
 
-To get a local copy up and running follow these setup steps.
+To get a local copy up and running follow these simple example steps.
+
+- clone the project: `git clone https://github.com/fahdrahali/awesome-books.git`
+- install dependencices : `npm install`
+- launch on the browser : `npm start`.
+
 
 **Setup**
 
@@ -26,7 +31,7 @@ To get a local copy up and running follow these setup steps.
 
 ## Live
 
-- Link here: [Live](https://yazino12.github.io/webpack)
+- Link here: [Live](https://fahdrahali.github.io/webpack)
 
 ## 🤝 Contributing
 
